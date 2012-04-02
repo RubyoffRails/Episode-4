@@ -13,6 +13,12 @@
           {{row-array}}
         ]);
 
+				var options = {smoothLine: true,
+					series:{0:{targetAxisIndex:0}, 1:{targetAxisIndex:1}},
+					vAxes:[
+					{title:'Rainfall'},
+					{title:'Temperature'}
+				]}
 
         var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
         chart.draw(data, options);
