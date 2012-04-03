@@ -1,4 +1,4 @@
-Episode 4: Ruby off Rails
+Episode 4: Ruby off Rails -- Solution Branch
 =========================
 
 Learn Ruby First. Rails Optional
@@ -11,7 +11,7 @@ At the end of today's lesson, we'll have learned the basic CSV syntax, how to te
 The Answers
 -----------
 
-You can see a working version here [[xxxxx]] and can view the answer branch here [yyyyyy]
+You can see a [working version](http://rubyoffrails.github.com/Episode-4/) and can view the [answer branch](https://github.com/rubyoffrails/Episode-4/tree/solution).
 
 Requirements
 ------------
